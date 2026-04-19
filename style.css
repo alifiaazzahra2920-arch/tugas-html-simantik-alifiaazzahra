@@ -11,6 +11,9 @@ body {
     background: linear-gradient(120deg, #ff9a9e, #fad0c4, #fbc2eb);
     background-size: 300% 300%;
     animation: gradientMove 8s ease infinite;
+    body {
+  background-color: pink;
+}
 }
 
 @keyframes gradientMove {
