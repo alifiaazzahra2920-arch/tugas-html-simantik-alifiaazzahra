@@ -5,6 +5,7 @@ const hp = document.getElementById("hp");
 const kategori = document.getElementById("kategori");
 const message = document.getElementById("message");
 const hasil = document.getElementById("hasilData");
+console.log("commit tambahan");
 
 form.addEventListener("submit", function(e) {
     e.preventDefault();
